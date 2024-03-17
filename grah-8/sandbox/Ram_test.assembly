@@ -1,0 +1,10 @@
+1
+cp_01 #copy r0 to r1
+cp_02 #copy r0 to r2
+label start #offset name start
+add   #add r1 to r2
+cp_32 #copy r3 to r2
+cp_34 #copy r3 to r4 (ram addres)
+cp_3ram #copy r3 to ram
+start #set r0 to offset of start
+jmp   #set ins...counter to r0

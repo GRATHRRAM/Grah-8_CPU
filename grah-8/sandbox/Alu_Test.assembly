@@ -1,0 +1,15 @@
+7#move 7 to r0(reg0)
+cp_01#copy val of r0 to r1
+cp_02#copy val of r0 to r2
+
+add #add r1 to r2 and save in r3
+sub #sub r1 from r2 and save in r3
+not #not r1 ex-> from 0 to 255
+or  #binary(8bit) or gate
+nor #binary(8bit) nor gate
+xor #binary(8bit) xor gate
+nxor#binary(8bit) nxor gate
+and #binary(8bit) and gate
+nand#binary(8bit) nand gate
+mul #multiplying r1 by r2
+div #dividing r1 by r2
