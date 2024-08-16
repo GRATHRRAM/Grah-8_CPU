@@ -3,3 +3,4 @@
 3 hours of futage (missing 10 minits at the end)
 
 https://youtu.be/ZvVYsFjkFvY
+Btw its not turing complete ig i forgot about cmp instrucion back then...
